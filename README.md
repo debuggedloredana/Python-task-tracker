@@ -50,6 +50,7 @@ How to Run
 4. Run the following command in the terminal:
 python task_tracker.py
 
+<img width="659" height="283" alt="image" src="https://github.com/user-attachments/assets/04cf474c-fc51-4973-af48-76b8813ac22b" />
 
 Future Improvements
 1. Add task deadlines and priorities.
